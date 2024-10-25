@@ -92,6 +92,7 @@ ram.person()
 
 
 '''
+
 class student:
     Students={}
 
@@ -267,4 +268,4 @@ class student:
                     print(f"{j} : {self.Students[i][j]}")
             else:
                 print('Invalid')
-                    '''
+   '''                 
